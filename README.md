@@ -131,6 +131,8 @@ Distance from the city center shows a negative relationship with house prices.
 
 This indicates that properties located farther from the city center may generally have lower prices.
 
+## 🔍 Feature Correlation Analysis:
+![House Price Feature Correlation](house_price_feature_correlation.png)
 ---
 
 ## 🤖 Machine Learning Model
